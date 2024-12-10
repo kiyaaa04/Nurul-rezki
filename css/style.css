@@ -191,11 +191,11 @@ background: #e46f1c;
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #3b5d50;
-    border-color: #3b5d50; }
+    background: #f39224;
+    border-color: #f39224; }
     .btn.btn-primary:hover {
-      background: #314d43;
-      border-color: #314d43; }
+      background: #f9bf29;
+      border-color: #f9bf29; }
   .btn.btn-secondary {
     color: #2f2f2f;
     background: #f9bf29;
@@ -316,7 +316,7 @@ background: #e46f1c;
       width: 33px;
       height: 33px;
       position: absolute;
-      background: rgba(59, 93, 80, 0.2);
+      background: rgba(251, 177, 67, 0.2);
       border-radius: 50%;
       right: -8px;
       bottom: 0; }
@@ -391,7 +391,7 @@ background: #e46f1c;
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      border: 2px solid #3b5d50;
+      border: 2px solid #ecab33;
       position: absolute;
       left: 0;
       top: 8px; }
@@ -473,13 +473,13 @@ background: #e46f1c;
       height: 58px;
       line-height: 58px;
       border-radius: 50%;
-      background: rgba(59, 93, 80, 0.1);
+      background: rgba(93, 85, 59, 0.1);
       color: #2f2f2f;
       -webkit-transition: .3s all ease;
       -o-transition: .3s all ease;
       transition: .3s all ease; }
       .testimonial-slider-wrap #testimonial-nav > span:hover {
-        background: #3b5d50;
+        background: #f9bf29;
         color: #ffffff; }
     .testimonial-slider-wrap #testimonial-nav .prev {
       left: -10px; }
@@ -519,7 +519,7 @@ background: #e46f1c;
         transition: .3s all ease;
         background-color: #d6d6d6; }
       .testimonial-slider-wrap .tns-nav button:hover:before, .testimonial-slider-wrap .tns-nav button.tns-nav-active:before {
-        background-color: #3b5d50; }
+        background-color: #e76e22; }
 
 .before-footer-section {
   padding: 7rem 0 12rem 0 !important; }
@@ -576,7 +576,7 @@ background: #e46f1c;
     .footer-section .subscription-form h3 {
       font-size: 18px;
       font-weight: 500;
-      color: #3b5d50; }
+      color: #e76e22; }
     .footer-section .subscription-form .form-control {
       height: 50px;
       border-radius: 10px;
@@ -585,7 +585,7 @@ background: #e46f1c;
         outline: none;
         -webkit-box-shadow: none;
         box-shadow: none;
-        border-color: #3b5d50;
+        border-color: #e76e22;
         -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
         box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2); }
       .footer-section .subscription-form .form-control::-webkit-input-placeholder {
@@ -616,7 +616,7 @@ background: #e46f1c;
     font-size: 32px;
     font-weight: 500;
     text-decoration: none;
-    color: #3b5d50; }
+    color: #e76e22; }
   .footer-section .custom-social li {
     margin: 2px;
     display: inline-block; }
@@ -627,10 +627,10 @@ background: #e46f1c;
       line-height: 40px;
       display: inline-block;
       background: #dce5e4;
-      color: #3b5d50;
+      color: #e76e22;
       border-radius: 50%; }
       .footer-section .custom-social li a:hover {
-        background: #3b5d50;
+        background: #e76e22;
         color: #ffffff; }
   .footer-section .border-top {
     border-color: #dce5e4; }
@@ -648,7 +648,7 @@ background: #e46f1c;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #3b5d50;
+    border-color: #e76e22;
     -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2); }
   .form-control::-webkit-input-placeholder {
@@ -670,7 +670,7 @@ background: #e46f1c;
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background: #3b5d50;
+    background: #e76e22;
     margin-right: 20px;
     color: #ffffff; }
 
@@ -696,7 +696,7 @@ textarea {
     vertical-align: middle;
     color: rgba(0, 0, 0, 0.8); }
   .site-blocks-table tbody tr:first-child td {
-    border-top: 1px solid #3b5d50 !important; }
+    border-top: 1px solid #e76e22 !important; }
   .site-blocks-table .btn {
     background: none !important;
     color: #000000;
@@ -714,11 +714,11 @@ textarea {
   border-radius: 10px !important; }
 
 .text-primary {
-  color: #3b5d50 !important; }
+  color: #e76e22 !important; }
 
 .thankyou-icon {
   position: relative;
-  color: #3b5d50; }
+  color: #e76e22; }
   .thankyou-icon:before {
     position: absolute;
     content: "";
